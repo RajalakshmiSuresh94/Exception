@@ -19,6 +19,7 @@ public class CheckMsg {
 			//fe.printStackTrace();
 			System.err.println(fe);
 		}
+		System.out.println("End");
 		
 	}
 

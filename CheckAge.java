@@ -17,6 +17,7 @@ public class CheckAge {
 	}
 		
 	System.out.println("Sucess");
+	System.out.println("End");
 		
 		
 	}}
